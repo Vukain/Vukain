@@ -1,7 +1,7 @@
 ![vuko-01-01](https://user-images.githubusercontent.com/55598879/166103594-f906fd66-325b-4d2e-9e8a-1c3747076364.png)
 
 <h2 align="center">Languages and Tools:</h3></br>
-
+<img align="right" style="margin: 5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vukain&layout=compact&theme=dracula">
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=grey&color=grey&labelColor=green)
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vukain&layout=compact&theme=dracula">
+
 
 <!--
 **Vukain/Vukain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
