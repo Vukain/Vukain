@@ -15,7 +15,7 @@
 
 <h2 align="center">Currently learning:</h3>
 
-  ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 <!--
 **Vukain/Vukain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
