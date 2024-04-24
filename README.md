@@ -17,6 +17,8 @@
 
   ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Vukain)](https://git.io/streak-stats)
+
 <!--
 **Vukain/Vukain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
